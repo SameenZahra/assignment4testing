@@ -13,7 +13,7 @@ public class ass4testing {
       
       static public double percent(int ass,int mid,int finals) {//numbers input from 100
              double avg=0;
-            if ((ass > 4 && mid == 10) && finals >= 20) 
+            if ((ass > 5 && mid == 10) && finals >= 20) 
             {   
                avg = (ass+mid+finals)/3;
          
